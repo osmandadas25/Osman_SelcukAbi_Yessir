@@ -26,7 +26,7 @@ document.addEventListener("mousemove",function(event){
 
     let buttonH = document.getElementById("h");
     buttonH.addEventListener("mouseenter", HORROR)
-
+    buttonH.addEventListener("onclick", HORROR)
     let card = document.getElementById("card");
     
 
