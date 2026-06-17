@@ -17,7 +17,7 @@ http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106983
 http://88.212.11.206:5000/live/66/66.m3u8
 #EXTINF:-1 tvg-name="RTL 2" group-title="Allgemein" tvg-logo="https://images8.alphacoders.com/965/thumb-1920-965793.jpg"
 http://s4.stream-server.org:1935/live/rtl2.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-name="Super RTL" group-title="Kinder" tvg-logo="https://preview.redd.it/sit-on-throne-v0-0cur5pke62ne1.jpeg?width=543&format=pjpg&auto=webp&s=7b643e7e383a2e28da5445cbb1cd5bf0dc0c09ad"
+#EXTINF:-1 tvg-name="Super RTL" group-title="Kinder" tvg-logo="https://preview.redd.it/sit-on-throne-v0-0cur5pke62ne1.jpeg?width=543&format=pjpg&auto=webp&s=7b643e7e383a2e28da5445cbb1cd5bf0dc0c09ad.png"
 http://s5.stream-server.org:1935/live/superrtl.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Kinder" tvg-logo="https://i.pinimg.com/736x/a5/64/3c/a5643c7f5c33cd116edd7db003ec9dec.jpg"
 https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8|X-Forwarded-For=91.63.136.2
